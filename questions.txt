@@ -1,0 +1,2 @@
+state vs prop
+controlled vs uncontrolled components
